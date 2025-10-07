@@ -1,1 +1,3 @@
 
+pointer(variable that store adress of another variable)
+<type> *ptr_name;
